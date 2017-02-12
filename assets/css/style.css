@@ -274,11 +274,8 @@ input[type=submit] {
   margin:5px 0 0 10px;
 }
 
-
-
-
-
 }
+
 @media screen and (max-width: 768px) {
 
 .container{
@@ -292,7 +289,7 @@ input[type=submit] {
 }
 
 .sidebar{
-  width:30%;
+  width:100%;
   margin:5px 0 0 10px;
 }
 
